@@ -1,5 +1,7 @@
 [
   "obsidian-minimal-settings",
   "obsidian-excalidraw-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "digitalgarden",
+  "templater-obsidian"
 ]

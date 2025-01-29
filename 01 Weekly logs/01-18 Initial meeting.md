@@ -1,3 +1,7 @@
+---
+dg-home: false
+dg-publish: true
+---
 Algonauts 2025 Website: [https://algonautsproject.com/](https://algonautsproject.com/) 
 
 Challenge details: [https://www.codabench.org/competitions/4313/](https://www.codabench.org/competitions/4313/)
@@ -65,4 +69,4 @@ Himalaya: [https://gallantlab.org/himalaya/](https://gallantlab.org/himalaya/) [
 
 Pytorch model hub: https://pytorch.org/hub/research-models
 
-**
+[Slides](https://www.canva.com/design/DAGcXZL5tVk/EHBP42X6TRen6ZYTbG2cZA/view?utm_content=DAGcXZL5tVk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf5ae8e20c6) presented
