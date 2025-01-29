@@ -29,7 +29,7 @@ The Algonauts Challenge 2025 focuses on predicting human brain responses to comp
 - **Testing Data:** 10 hours of movie stimuli from "Friends" Season 7, with fMRI responses withheld for evaluation.
 - **OOD Testing Data:** 2 hours of out of distribution movie data.
 
-See more on [[Previous Competitions]]
+See more on [[Algonauts 2025 Data]]
 
 ---
 ## 🎯 Team Objectives
