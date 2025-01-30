@@ -44,7 +44,7 @@ See more on [[Algonauts 2025 Data]]
 
 ### Phase 1: Preparation (Now)  
 - [x] Research past solutions.
-- [ ] Brainstorm unique angles (e.g., hybrid neuro-symbolic models, attention mechanisms).
+- [ ] Brainstorm unique angles.
 - [x] Set up team tools: GitHub, Discord, Shared cloud storage (HF).
 
 ### Phase 2: Development (February - June)  
