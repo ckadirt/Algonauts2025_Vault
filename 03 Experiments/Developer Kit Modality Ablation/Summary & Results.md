@@ -35,8 +35,8 @@ There is not a huge drop on performance when using PCA
 ---
 ## Info about the PCA
 
-| Modality | Model                 | Feature Size  | Feature Size After PCA |
-|----------|-----------------------|--------------|------------------------|
-| Visual   | 3D ResNet Slow R50    | 8192         | 250                    |
-| Audio    | MFCCs                 | 20           | 20                     |
-| Text     | BERT-base-uncased     | (10, 768)    | 50                     |
+| Modality | Model              | Feature Size | Feature Size After PCA |
+| -------- | ------------------ | ------------ | ---------------------- |
+| Visual   | 3D ResNet Slow R50 | 8192         | 250                    |
+| Audio    | MFCCs              | 20           | 20                     |
+| Text     | BERT-base-uncased  | (10, 768)    | 50                     |
