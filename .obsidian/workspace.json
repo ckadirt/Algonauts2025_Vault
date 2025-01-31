@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Experiments/Features/Vjepa/Untitled.md",
+                "file": "01 Weekly logs/01-31.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "01-31"
             }
           }
         ]
@@ -179,9 +179,10 @@
   },
   "active": "2805ee56cd2254de",
   "lastOpenFiles": [
-    "03 Experiments/VQVAE/Summary.md",
-    "03 Experiments/Features/Vjepa/Untitled.md",
     "03 Experiments/Developer Kit Modality Ablation/Summary & Results.md",
+    "03 Experiments/Features/Vjepa/Untitled.md",
+    "07 Templates/Empty publish.md",
+    "03 Experiments/VQVAE/Summary.md",
     "03 Experiments/Architectures/RNNs",
     "03 Experiments/Architectures",
     "02 Background/Previous Competitions.md",
@@ -197,7 +198,6 @@
     "04 Literature Review/Untitled.md",
     "05 Shared Notes & Discussions/Untitled.md",
     "06 Resources/Parcelation.md",
-    "07 Templates/Empty publish.md",
     "07 Templates/Meeting.md",
     "03 Experiments/Developer Kit Modality Ablation/Images/Result full features.png",
     "03 Experiments/Developer Kit Modality Ablation/Images/modality ablation.png",
