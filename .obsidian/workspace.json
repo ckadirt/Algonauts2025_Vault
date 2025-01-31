@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Weekly logs/01-18 Initial meeting.md",
+                "file": "00 Meta/General Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-18 Initial meeting"
+              "title": "General Roadmap"
             }
           }
         ]
@@ -177,11 +177,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2805ee56cd2254de",
+  "active": "0ab94d9b293ba69e",
   "lastOpenFiles": [
+    "01 Weekly logs/01-18 Initial meeting.md",
     "01 Weekly logs/01-31.md",
     "03 Experiments/VQVAE/Summary.md",
-    "01 Weekly logs/01-18 Initial meeting.md",
     "03 Experiments/Developer Kit Modality Ablation/Summary & Results.md",
     "00 Meta/General Roadmap.md",
     "04 Literature Review/Untitled.md",
