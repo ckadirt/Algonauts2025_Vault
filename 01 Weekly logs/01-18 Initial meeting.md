@@ -1,6 +1,7 @@
 ---
 dg-home: false
 dg-publish: true
+type: meeting
 ---
 Algonauts 2025 Website: [https://algonautsproject.com/](https://algonautsproject.com/) 
 
