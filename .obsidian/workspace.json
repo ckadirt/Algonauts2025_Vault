@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Experiments/Developer Kit Modality Ablation/Summary & Results.md",
+                "file": "01 Weekly logs/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Summary & Results"
+              "title": "Untitled"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -178,6 +179,9 @@
   },
   "active": "2805ee56cd2254de",
   "lastOpenFiles": [
+    "01 Weekly logs/01-18 Initial meeting.md",
+    "01 Weekly logs/Untitled.md",
+    "03 Experiments/Developer Kit Modality Ablation/Summary & Results.md",
     "03 Experiments/VQVAE/Summary.md",
     "00 Meta/General Roadmap.md",
     "04 Literature Review/Untitled.md",
@@ -185,13 +189,11 @@
     "06 Resources/Parcelation.md",
     "07 Templates/Empty publish.md",
     "07 Templates/Meeting.md",
-    "03 Experiments/Developer Kit Modality Ablation/Summary & Results.md",
     "02 Background/Previous Competitions.md",
     "02 Background/CNeuroMod Data.md",
     "02 Background/Algonauts 2025 Data.md",
     "00 Meta/Team Directory.md",
     "00 Meta/Vault Organization.md",
-    "01 Weekly logs/01-18 Initial meeting.md",
     "03 Experiments/Developer Kit Modality Ablation/Images/Result full features.png",
     "03 Experiments/Developer Kit Modality Ablation/Images/modality ablation.png",
     "02 Background/Images/2019 image.png",
