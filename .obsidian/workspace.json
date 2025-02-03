@@ -177,8 +177,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2805ee56cd2254de",
+  "active": "0b669ee8884a8cdc",
   "lastOpenFiles": [
+    "README.md",
     "00 Meta/Team Directory.md",
     "01 Weekly logs/01-31.md",
     "01 Weekly logs/01-18 Initial meeting.md",
@@ -216,7 +217,6 @@
     "01 Weekly logs/01-29 Branstorming.md",
     "02 Background/Images",
     "03 Experiments/Developer Kit Modality Ablation",
-    "create a link.md",
     "03 Experiments/VQVAE",
     "07 Templates",
     "06 Resources",
