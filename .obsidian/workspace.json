@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Team Directory"
             }
+          },
+          {
+            "id": "d2663810e6e44ff9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,7 +190,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2805ee56cd2254de",
+  "active": "d2663810e6e44ff9",
   "lastOpenFiles": [
     "01 Weekly logs/01-31.md",
     "01 Weekly logs/01-18 Initial meeting.md",
