@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/Team Directory.md",
+                "file": "00 Meta/General Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Team Directory"
+              "title": "General Roadmap"
             }
           },
           {
@@ -190,8 +190,14 @@
       "templater-obsidian:Templater": false
     }
   },
+<<<<<<< HEAD
   "active": "d2663810e6e44ff9",
+=======
+  "active": "0ab94d9b293ba69e",
+>>>>>>> origin/master
   "lastOpenFiles": [
+    "00 Meta/Team Directory.md",
+    "README.md",
     "01 Weekly logs/01-31.md",
     "01 Weekly logs/01-18 Initial meeting.md",
     "03 Experiments/Developer Kit Modality Ablation/Summary & Results.md",
@@ -206,7 +212,6 @@
     "02 Background/CNeuroMod Data.md",
     "02 Background/Algonauts 2025 Data.md",
     "00 Meta/Vault Organization.md",
-    "00 Meta/Team Directory.md",
     "00 Meta/General Roadmap.md",
     "04 Literature Review/Untitled.md",
     "05 Shared Notes & Discussions/Untitled.md",
@@ -229,7 +234,6 @@
     "01 Weekly logs/01-29 Branstorming.md",
     "02 Background/Images",
     "03 Experiments/Developer Kit Modality Ablation",
-    "create a link.md",
     "03 Experiments/VQVAE",
     "07 Templates",
     "06 Resources",
