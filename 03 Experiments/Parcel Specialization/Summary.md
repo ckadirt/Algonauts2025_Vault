@@ -1,0 +1,1 @@
+I (Pitz/Itamar) wanted to look at which modality is most influencial 

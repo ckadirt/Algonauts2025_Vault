@@ -25,5 +25,5 @@ dg-publish: true
 ### FMRI data tokenization
 - Connor
 - Mihir
-- See [[Summary]] for more details
+- See [[03 Experiments/VQVAE/Summary]] for more details
 ---
