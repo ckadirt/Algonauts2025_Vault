@@ -22,7 +22,7 @@ I lost the code on SAI cluster, lol. But I've coded over the developer kit noteb
 - Time window were the same 5
  
 ---
-## Resuts
+## Results
 
 Video is the most informative features as expected, is this due to encoder?
 ![[modality ablation.png]]
