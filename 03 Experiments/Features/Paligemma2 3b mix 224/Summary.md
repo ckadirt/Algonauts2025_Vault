@@ -12,4 +12,6 @@
 ## Results
 - Since features are heavy the experiment was done with a stimuli window of 2, but I'll write a more efficient way to do RR and scale it longer stimuli window.
 - This is the result using 2 for stimuli window with all the features from the developer kit trained on wolf and validated on life.
+- ![[wolftr_lifete_all_sw2_700k.png]]
+- And this are the results with Paliggema
 - 
