@@ -1,4 +1,4 @@
-Performed evaluation of how the sliding window affects the performance of a RR model from 1-25 using the developer kit features
+Performed evaluation of how the sliding window affects the performance of a RR model from 1-25 using the developer kit features (all modalities).
 
 for all the regressions, I've used a dummy way to search a good alpha:
 alphas = np.logspace(2, 7, num=10)
@@ -38,4 +38,4 @@ This experiment is using all the data expect the friends s6 to train and it's va
 This other experiment is using `wolf` for training and `life` for validation.
 ![[Pasted image 20250301094541.png]]
 
-Why did I perforem the experiment using such small amount of data, I mean of co
+Why did I perform the experiment using such small amount of data, it was just to compare with the result of the paligemma2 3b features, and since I just have 
