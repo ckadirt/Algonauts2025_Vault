@@ -5,4 +5,5 @@
 - For each interval of 1.49 seconds we take the first frame and the transcription and pass it to the model.
 - Applied a padding and truncation to max 276 tokens.
 - 256 of those tokens are from the image and 20 tokens from the transcript of that interval. 
-- Dimension of the features is: ``
+- Dimension of the features for each layer of each interval is: `1,276, 2304`
+- Extracting those features for all the stimuli is disk heavy 
