@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Performed evaluation of how the sliding window affects the performance of a RR model from 1-25 using the developer kit features (all modalities).
 
 for all the regressions, I've used a dummy way to search a good alpha:

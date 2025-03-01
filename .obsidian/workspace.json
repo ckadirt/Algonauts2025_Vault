@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Experiments/Features/Paligemma2 3b mix 224/Summary.md",
+                "file": "03 Experiments/Window time variation/Developer kit features.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Summary"
+              "title": "Developer kit features"
             }
           }
         ],
@@ -194,15 +194,16 @@
   },
   "active": "d2663810e6e44ff9",
   "lastOpenFiles": [
-    "03 Experiments/Window time variation/Developer kit features.md",
+    "03 Experiments/Features/Whisper V3/Summary.md",
     "03 Experiments/Features/Paligemma2 3b mix 224/Summary.md",
+    "03 Experiments/VQVAE/pg_wolftr_lifete_all_sw2_100k.png",
+    "03 Experiments/Window time variation/Developer kit features.md",
     "03 Experiments/Features/Paligemma2 3b mix 224/Images",
-    "wolftr_lifete_all_sw2_700k.png",
+    "03 Experiments/Features/Paligemma2 3b mix 224/Images/wolftr_lifete_all_sw2_700k.png",
     "03 Experiments/Features/Paligemma2 3b mix 224",
     "03 Experiments/Features/Paligemma2 3b mix 224/Images/Pasted image 20250301094541.png",
     "03 Experiments/Window time variation/Images",
     "03 Experiments/Window time variation/Images/Pasted image 20250301094405.png",
-    "03 Experiments/Features/Whisper V3/Summary.md",
     "03 Experiments/Window time variation",
     "07 Templates/Empty publish.md",
     "Untitled.md",
@@ -236,7 +237,6 @@
     "03 Experiments/Developer Kit Modality Ablation/Images/Result full features.png",
     "03 Experiments/Developer Kit Modality Ablation/Images/modality ablation.png",
     "02 Background/Images/2019 image.png",
-    "02 Background/Images/2021 image.png",
     "Welcome.md",
     "Encoders.md",
     "Untitled.canvas"
