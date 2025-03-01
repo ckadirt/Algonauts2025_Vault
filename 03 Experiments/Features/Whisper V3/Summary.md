@@ -17,3 +17,4 @@ This is the result using RR with the original audio features from the developer 
 ![[download (8).png]]
 
 This is the result using the features for audio+text (concatenated) from the developer kit: bert + mfcc:
+![[download (9).png]]

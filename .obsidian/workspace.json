@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Experiments/Features/Whisper V3/Summary.md",
+                "file": "07 Templates/Empty publish.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Summary"
+              "title": "Empty publish"
             }
           }
         ],
@@ -192,13 +192,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0ab94d9b293ba69e",
+  "active": "d2663810e6e44ff9",
   "lastOpenFiles": [
+    "03 Experiments/Features/Whisper V3/Summary.md",
+    "Untitled.md",
+    "03 Experiments/Features/Whisper V3/images/download (9).png",
     "03 Experiments/Features/Whisper V3/images/download (8).png",
     "03 Experiments/Features/Whisper V3/images",
     "03 Experiments/Features/Whisper V3/images/download (7).png",
     "03 Experiments/Parcel Specialization/Summary.md",
-    "03 Experiments/Features/Whisper V3/Summary.md",
     "03 Experiments/Features/Whisper V3",
     "03 Experiments/VQVAE/Summary.md",
     "07 Templates/Empty publish.md",
