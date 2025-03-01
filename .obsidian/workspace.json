@@ -192,8 +192,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d2663810e6e44ff9",
+  "active": "0ab94d9b293ba69e",
   "lastOpenFiles": [
+    "03 Experiments/Features/Whisper V3/images",
+    "03 Experiments/Features/Whisper V3/images/download (7).png",
     "03 Experiments/Parcel Specialization/Summary.md",
     "03 Experiments/Features/Whisper V3/Summary.md",
     "03 Experiments/Features/Whisper V3",
@@ -231,7 +233,6 @@
     "Parcelation.md",
     "03 Experiments/Developer Kit Modality Ablation/Images",
     "02 Background/General.md",
-    "00 Meta/Workflow.md",
     "02 Background/Images",
     "03 Experiments/Developer Kit Modality Ablation",
     "03 Experiments/VQVAE",

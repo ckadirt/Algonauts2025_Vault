@@ -11,3 +11,5 @@
 - The time interval was the same as the TR 1.49seconds.
 
 ## Results
+This is the result using RR with just the Whisper features, a concatenation of all the layers extracted.
+![[download (7).png]]
