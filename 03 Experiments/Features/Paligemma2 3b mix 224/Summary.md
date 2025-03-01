@@ -10,4 +10,5 @@
 - For that reason I just decided to do a quick experiment on wolf and life stimuli, training on Wolf and evaluating on life with RR.
 
 ## Results
-- Since features are heavy the experiment was done with a stimuli window of 
+- Since features are heavy the experiment was done with a stimuli window of 2, but I'll write a more efficient way to do RR and scale it longer context window.
+- This is the result using window stimuli 
