@@ -1,4 +1,8 @@
+
+## Feature extraction general
 - Dataset with stimuli and parcels is here: https://www.kaggle.com/datasets/ckadirt/algonauts2025nsl on kaggle.
 - This notebook perform feature extraction on kaggle using that detaset:[https://www.kaggle.com/code/ckadirt/features-extraction-algonauts2025](https://www.kaggle.com/code/ckadirt/features-extraction-algonauts2025 "https://www.kaggle.com/code/ckadirt/features-extraction-algonauts2025")
 - You just need to modify the `extract_fn` function, which receives the video, audio, and transcript intervals (you can define the duration) and should return a dictionary with `layer_name` and corresponding `torch.Tensor`. It also uses Connor's feature extractor and writes .h5 files.
-- 
+
+## Feature extraction Whisper V3 Large
+- For extracting features 
