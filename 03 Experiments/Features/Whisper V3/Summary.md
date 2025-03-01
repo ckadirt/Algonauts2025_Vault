@@ -5,4 +5,6 @@
 - You just need to modify the `extract_fn` function, which receives the video, audio, and transcript intervals (you can define the duration) and should return a dictionary with `layer_name` and corresponding `torch.Tensor`. It also uses Connor's feature extractor and writes .h5 files.
 
 ## Feature extraction Whisper V3 Large
-- The features were extracted from the encoder of the model, which on HF implementation receives a fixed sequence len input so processor had to apply padding, ending with a dimension of batch_size, 1500, 1280
+- The features were extracted from the encoder of the model, which on HF implementation receives a fixed sequence len input so processor had to apply padding, ending with a dimension of batch_size, 1500, 1280, the sequence dimension has been averaged so each interval is 1, 1, 1280
+- Four layers were extracted: 
+- ``
