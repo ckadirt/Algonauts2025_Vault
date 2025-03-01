@@ -192,11 +192,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d2663810e6e44ff9",
+  "active": "0ab94d9b293ba69e",
   "lastOpenFiles": [
+    "03 Experiments/Features/Whisper V3",
+    "03 Experiments/VQVAE/Summary.md",
+    "03 Experiments/Parcel Specialization/Summary.md",
     "07 Templates/Empty publish.md",
     "07 Templates/Meeting.md",
-    "03 Experiments/Parcel Specialization/Summary.md",
     "00 Meta/General Roadmap.md",
     "00 Meta/Team Directory.md",
     "00 Meta/Vault Organization.md",
@@ -207,7 +209,6 @@
     "01 Weekly logs/01-18 Initial meeting.md",
     "03 Experiments/Developer Kit Modality Ablation/Summary & Results.md",
     "03 Experiments/Features/Vjepa/Untitled.md",
-    "03 Experiments/VQVAE/Summary.md",
     "03 Experiments/Architectures/RNNs",
     "03 Experiments/Architectures",
     "02 Background/Previous Competitions.md",
@@ -230,7 +231,6 @@
     "03 Experiments/Developer Kit Modality Ablation/Images",
     "02 Background/General.md",
     "00 Meta/Workflow.md",
-    "().md",
     "02 Background/Images",
     "03 Experiments/Developer Kit Modality Ablation",
     "03 Experiments/VQVAE",
