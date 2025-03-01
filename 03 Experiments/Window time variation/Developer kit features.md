@@ -41,4 +41,4 @@ This experiment is using all the data expect the friends s6 to train and it's va
 This other experiment is using `wolf` for training and `life` for validation.
 ![[Pasted image 20250301094541.png]]
 
-Why did I perform the experiment using such small amount of data, it was just to compare with the result of the paligemma2 3b features, and since I just have those features for the `wolf` and the `life` stimuli I decided to also see the performance on developer kit features. See 
+Why did I perform the experiment using such small amount of data, it was just to compare with the result of the paligemma2 3b features, and since I just have those features for the `wolf` and the `life` stimuli I decided to also see the performance on developer kit features. See [[03 Experiments/Features/Paligemma2 3b mix 224/Summary|Summary]]

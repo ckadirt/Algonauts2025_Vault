@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Experiments/Features/Whisper V3/Summary.md",
+                "file": "03 Experiments/Features/Paligemma2 3b mix 224/Summary.md",
                 "mode": "source",
                 "source": false
               },
@@ -194,10 +194,10 @@
   },
   "active": "d2663810e6e44ff9",
   "lastOpenFiles": [
-    "03 Experiments/VQVAE/Summary.md",
-    "03 Experiments/VQVAE/pg_wolftr_lifete_all_sw2_100k.png",
     "03 Experiments/Window time variation/Developer kit features.md",
+    "03 Experiments/VQVAE/pg_wolftr_lifete_all_sw2_100k.png",
     "03 Experiments/Features/Whisper V3/Summary.md",
+    "03 Experiments/VQVAE/Summary.md",
     "03 Experiments/Features/Paligemma2 3b mix 224/Summary.md",
     "03 Experiments/Features/Paligemma2 3b mix 224/Images",
     "03 Experiments/Features/Paligemma2 3b mix 224/Images/wolftr_lifete_all_sw2_700k.png",
