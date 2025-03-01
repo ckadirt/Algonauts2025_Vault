@@ -1,0 +1,2 @@
+- Dataset with stimuli and parcels is here: https://www.kaggle.com/datasets/ckadirt/algonauts2025nsl on kaggle.
+- This notebook perform feature extraction on kaggle using th
