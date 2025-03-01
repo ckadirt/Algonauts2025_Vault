@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Experiments/Window time variation/Developer kit features.md",
+                "file": "03 Experiments/Features/Paligemma2 3b mix 224/Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Developer kit features"
+              "title": "Summary"
             }
           }
         ],
@@ -194,12 +194,13 @@
   },
   "active": "0ab94d9b293ba69e",
   "lastOpenFiles": [
-    "03 Experiments/Features/Paligemma2 3b 224",
+    "03 Experiments/Window time variation/Developer kit features.md",
+    "03 Experiments/Features/Paligemma2 3b mix 224/Summary.md",
+    "03 Experiments/Features/Paligemma2 3b mix 224",
     "Pasted image 20250301094541.png",
     "03 Experiments/Window time variation/Images",
     "03 Experiments/Window time variation/Images/Pasted image 20250301094405.png",
     "03 Experiments/Features/Whisper V3/Summary.md",
-    "03 Experiments/Window time variation/Developer kit features.md",
     "03 Experiments/Window time variation",
     "07 Templates/Empty publish.md",
     "Untitled.md",
@@ -239,7 +240,6 @@
     "Welcome.md",
     "Encoders.md",
     "Stimuli.md",
-    "03 Experiments/Developer Kit Modality Ablation/Images",
     "Untitled.canvas"
   ]
 }
