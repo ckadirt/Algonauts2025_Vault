@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Experiments/Parcel Specialization/Summary.md",
+                "file": "03 Experiments/Features/Whisper V3/Summary.md",
                 "mode": "source",
                 "source": false
               },
@@ -192,11 +192,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0ab94d9b293ba69e",
+  "active": "d2663810e6e44ff9",
   "lastOpenFiles": [
+    "03 Experiments/Parcel Specialization/Summary.md",
+    "03 Experiments/Features/Whisper V3/Summary.md",
     "03 Experiments/Features/Whisper V3",
     "03 Experiments/VQVAE/Summary.md",
-    "03 Experiments/Parcel Specialization/Summary.md",
     "07 Templates/Empty publish.md",
     "07 Templates/Meeting.md",
     "00 Meta/General Roadmap.md",
@@ -234,7 +235,6 @@
     "02 Background/Images",
     "03 Experiments/Developer Kit Modality Ablation",
     "03 Experiments/VQVAE",
-    "07 Templates",
     "Untitled.canvas"
   ]
 }
