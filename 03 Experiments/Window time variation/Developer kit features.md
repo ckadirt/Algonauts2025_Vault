@@ -4,6 +4,7 @@ for all the regressions, I've used a dummy way to search a good alpha:
 alphas = np.logspace(2, 7, num=10)
 
 100 alpha to start is not hurting performance of the models with short window stimuli:
+```
 |   |   |   |
 |---|---|---|
 |67.5s|193|Stimulus Window: 1 \| Alpha: 0.01 -> Mean Accuracy: 0.17900000512599945|
@@ -26,10 +27,12 @@ alphas = np.logspace(2, 7, num=10)
 |178.7s|210|Stimulus Window: 1 \| Alpha: 143844.988828766 -> Mean Accuracy: 0.1770000010728836|
 |186.6s|211|Stimulus Window: 1 \| Alpha: 379269.01907322457 -> Mean Accuracy: 0.1770000010728836|
 |194.4s|212|Stimulus Window: 1 \| Alpha: 1000000.0 -> Mean Accuracy: 0.17499999701976776|
+```
 
 ## Full dataset
 
-
+This experiment is using all the data expect the friends s6 to train and it's validation on the friends s6.
+![[Pasted image 20250301094405.png]]
 
 
 
