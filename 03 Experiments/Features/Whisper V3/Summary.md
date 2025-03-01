@@ -13,3 +13,7 @@
 ## Results
 This is the result using RR with just the Whisper features, a concatenation of all the layers extracted.
 ![[download (7).png]]
+This is the result using RR with the original developer kit features mfcc
+![[download (8).png]]
+
+This is the result using the original developer kit fea
