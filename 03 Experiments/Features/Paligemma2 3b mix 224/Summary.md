@@ -19,4 +19,4 @@ dg-publish: true
 - And this is the result with Paliggema (not audio features included)
 - ![[wolftr_lifete_all_sw2_700k.png]]
 
-Using that small amount of data results on overfitting when increasing the window size, see [[window]
+Using that small amount of data results on overfitting when increasing the window size, see [[Developer kit features]]]
