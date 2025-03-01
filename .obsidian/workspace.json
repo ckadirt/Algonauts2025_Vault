@@ -192,10 +192,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0ab94d9b293ba69e",
+  "active": "d2663810e6e44ff9",
   "lastOpenFiles": [
-    "03 Experiments/Window time variation/Untitled",
-    "Pasted image 20250301094405.png",
+    "Pasted image 20250301094541.png",
+    "03 Experiments/Window time variation/Images",
+    "03 Experiments/Window time variation/Images/Pasted image 20250301094405.png",
     "03 Experiments/Features/Whisper V3/Summary.md",
     "03 Experiments/Window time variation/Developer kit features.md",
     "03 Experiments/Window time variation",
@@ -238,7 +239,6 @@
     "Encoders.md",
     "Stimuli.md",
     "03 Experiments/Developer Kit Modality Ablation/Images",
-    "02 Background/Images",
     "Untitled.canvas"
   ]
 }

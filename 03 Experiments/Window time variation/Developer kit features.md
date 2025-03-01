@@ -35,4 +35,7 @@ This experiment is using all the data expect the friends s6 to train and it's va
 ![[Pasted image 20250301094405.png]]
 
 ## Small subset
-This other experiment is using `wolf` for training and `life` for validation
+This other experiment is using `wolf` for training and `life` for validation.
+![[Pasted image 20250301094541.png]]
+
+Why did I perforem the experiment using such small amount of data, I mean of co
