@@ -17,6 +17,6 @@ dg-publish: true
 - This is the result using 2 for stimuli window with all the features from the developer kit trained on wolf and validated on life.
 - ![[wolftr_lifete_all_sw2_700k.png]]
 - And this is the result with Paliggema (not audio features included)
-- ![[wolftr_lifete_all_sw2_700k.png]]
+- ![[03 Experiments/Features/Paligemma2 3b mix 224/Images/pg_wolftr_lifete_all_sw2_100k.png]]
 
 Using that small amount of data results on overfitting when increasing the window size, see [[Developer kit features]]]
