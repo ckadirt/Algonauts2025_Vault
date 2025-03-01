@@ -6,4 +6,4 @@
 - Applied a padding and truncation to max 276 tokens.
 - 256 of those tokens are from the image and 20 tokens from the transcript of that interval. 
 - Dimension of the features for each layer of each interval is: `1,276, 2304`
-- Extracting those features for all the stimuli is disk heavy 
+- Extracting those features for all the stimuli is heavy on disk space, for season 1 of friends is around 28Gb for one layer (56Gb for the two layer), and the max output of kaggle is just 20Gb 
