@@ -34,6 +34,5 @@ alphas = np.logspace(2, 7, num=10)
 This experiment is using all the data expect the friends s6 to train and it's validation on the friends s6.
 ![[Pasted image 20250301094405.png]]
 
-
-
 ## Small subset
+This other experiment is using `wolf` for training and `life` for validation
