@@ -25,12 +25,14 @@
             "id": "d2663810e6e44ff9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "03 Experiments/Window stimuli variation/Images/Pasted image 20250301094405.png"
+                "file": "03 Experiments/Developer Kit Modality Ablation/Summary & Results.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250301094405"
+              "icon": "lucide-file",
+              "title": "Summary & Results"
             }
           }
         ],
@@ -192,6 +194,7 @@
   },
   "active": "d2663810e6e44ff9",
   "lastOpenFiles": [
+    "03 Experiments/Window stimuli variation/Images/Pasted image 20250301094405.png",
     "03 Experiments/Features/Paligemma2 3b mix 224/Summary.md",
     "03 Experiments/Features/Paligemma2 3b mix 224/Images/pg_wolftr_lifete_all_sw2_100k.png",
     "03 Experiments/Features/Paligemma2 3b mix 224/Images/wolftr_lifete_all_sw2_700k.png",
@@ -203,7 +206,6 @@
     "03 Experiments/Features/Paligemma2 3b mix 224/Images",
     "03 Experiments/Features/Paligemma2 3b mix 224",
     "03 Experiments/Window stimuli variation/Images",
-    "03 Experiments/Window stimuli variation/Images/Pasted image 20250301094405.png",
     "03 Experiments/Window stimuli variation",
     "07 Templates/Empty publish.md",
     "Untitled.md",
