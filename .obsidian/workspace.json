@@ -25,14 +25,12 @@
             "id": "d2663810e6e44ff9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "03 Experiments/Features/Paligemma2 3b mix 224/Summary.md",
-                "mode": "source",
-                "source": false
+                "file": "03 Experiments/Window stimuli variation/Images/Pasted image 20250301094405.png"
               },
-              "icon": "lucide-file",
-              "title": "Summary"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250301094405"
             }
           }
         ],
@@ -192,11 +190,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0ab94d9b293ba69e",
+  "active": "d2663810e6e44ff9",
   "lastOpenFiles": [
+    "03 Experiments/Features/Paligemma2 3b mix 224/Summary.md",
     "03 Experiments/Features/Paligemma2 3b mix 224/Images/pg_wolftr_lifete_all_sw2_100k.png",
     "03 Experiments/Features/Paligemma2 3b mix 224/Images/wolftr_lifete_all_sw2_700k.png",
-    "03 Experiments/Features/Paligemma2 3b mix 224/Summary.md",
     "03 Experiments/Window stimuli variation/Images/Pasted image 20250301094541.png",
     "03 Experiments/Window stimuli variation/Developer kit features.md",
     "03 Experiments/VQVAE/pg_wolftr_lifete_all_sw2_100k.png",
